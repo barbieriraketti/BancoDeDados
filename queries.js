@@ -2,7 +2,7 @@
 
 //Nome: Joao Pedro N J BARBIERI
 //RA: 22.120.049-6
-
+//Gabriel Brito 22.119.010-1
 // Query que retorna qual estudante fez qual disciplina do próprio orientador.
 db.student.aggregate([
    // Faz uma junção com a coleção "advisor" usando o campo "id" do estudante e "s_id" do orientador.
